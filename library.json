@@ -24,6 +24,6 @@
   },
   "dependencies": {
     "m5stack/M5Unified": "0.1.12",
-    "lvgl/lvgl": "9.0.0"
+    "lvgl/lvgl": "9.3.0"
   }
 }
